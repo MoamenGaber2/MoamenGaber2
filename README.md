@@ -7,7 +7,15 @@
 
 - 📫 How to reach me **moamengaber2002@gmail.com**
 
-- 📄 Know about my experiences [I fully finished a DataScience and AI Diploma from AMIT Learning which started from 2024-11-8 to 2025-07-4 with a duration of 220 hours. The topics covered in this diploma were: Python, DataScience, MachineLearning, DeepLearning, ComputerVision, and NLP.]
+- 📄 Know about my experiences:
+
+I fully finished a DataScience and AI Diploma from AMIT Learning which started from 2024-11-8 to 2025-07-4 with a duration of 220 hours. The topics covered in this diploma were:
+- Python
+- DataScience
+- MachineLearning
+-  DeepLearning
+-  ComputerVision
+-  NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
