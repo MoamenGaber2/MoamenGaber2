@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moamen Mohamed Ahmed</h1>
 <h3 align="center">A passionate DataScientist from Egypt</h3>
 
-- 🔭 I’m currently working on [liver_ct_segmentation_project](https://github.com/MoamenGaber2/liver_ct_segmentation_project)
+- 🔭 I’m currently working on [brain_mri_2d_segmentation](https://github.com/MoamenGaber2/brain_mri_2d_segmentation)
 
 - 🌱 I’m currently learning **DeepLearning, ComputerVision, and NLP**
 
